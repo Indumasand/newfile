@@ -1,0 +1,3 @@
+networking.thera are 7 layer of osi model
+four layers in tp
+:wq
